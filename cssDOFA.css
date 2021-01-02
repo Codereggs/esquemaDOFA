@@ -1,0 +1,48 @@
+body {
+  margin: 0 auto;
+  position: relative;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(2, 200px);
+  grid-template-areas: "miCuadrado";
+  align-content: center;
+  height: 400px;
+  margin: 2% 1%;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.cuadros {
+  padding: 10px;
+  text-align: center;
+}
+
+.cuadroPequeño {
+  border: 1px #333333 solid;
+}
+
+.cuadroPequeño:hover {
+  border: 2px #000324 solid !important;
+}
+
+/*Colores especiales para las cajas */
+
+.bg-goodblue {
+  background-color: #1acfcc;
+}
+
+.bg-goodred {
+  background-color: #d60000;
+}
+
+.bg-goodgreen {
+  background-color: #3cd100;
+}
+.bg-goodgray {
+  background-color: #7a7a7a;
+}
