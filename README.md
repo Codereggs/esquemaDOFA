@@ -1,2 +1,14 @@
 # esquemaDOFA
-Haciendo un poco de código, decidí hacer un esquema de DOFA animado que sirva como base para otros proyectos.
+Cree un esquema DOFA animado que sirva de base para otros proyectos.
+
+Construido con 🛠️
+IDE - Visual Studio Code
+HTML
+CSS
+JAVASCRIPT
+Bootstrap - Como framework.
+
+Autor ✒️
+Esteban Garcia
+
+Gracias por leer este pequeño código 🤓
